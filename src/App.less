@@ -1,0 +1,22 @@
+@import "styles/palette.less";
+
+// global styles
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+// app styles
+.app {
+    background-color: @background-color;
+    width: 100vw;
+    min-height: 100vh;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+
+    .content {
+        padding-top: 62px;
+    }
+}

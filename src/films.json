@@ -1,0 +1,51 @@
+[
+	{
+		"id": 1,
+		"title": "Green Card",
+		"year": 1990,
+		"poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTNjZjQ3MTYtNTdhMS00MDRhLThjMjItMmQ3MzJkMjMyODg5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+		"director": "Peter Weir",
+		"stars": "Gérard Depardieu, Andie MacDowell, Bebe Neuwirth",
+		"description": "A man wanting to stay in the US enters into a marriage of convenience, but it turns into more than that."
+	},{
+		"id": 2,
+		"title": "Only You",
+		"year": 1994,
+		"poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMmEzOWI2YTUtMDNkNS00MDRlLWFmMTctNDAyNTdiYjU5MDZiXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY1000_CR0,0,749,1000_AL_.jpg",
+		"director": "Norman Jewison",
+		"stars": "Marisa Tomei, Robert Downey Jr., Bonnie Hunt",
+		"description": "Destiny. Faith (Marisa Tomei) believes that two soul-mates can be united if they find each other."
+	},{
+		"id": 3,
+		"title": "The Mirror Has Two Faces",
+		"year": 1996,
+		"poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYjMxMGVlMDMtNDczOC00YzJiLWIyNWYtNWE2NWZiY2I5Mjg3XkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
+		"director": "Barbra Streisand",
+		"stars": "Barbra Streisand, Jeff Bridges, Lauren Bacall",
+		"description": "A shy, middle-aged professor enters into a romantic but non-physical relationship with an unlucky-in-love colleague."
+	},{
+		"id": 4,
+		"title": "When Harry Met Sally...",
+		"year": 1989,
+		"poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE0ODEwNjM2NF5BMl5BanBnXkFtZTcwMjU2Mzg3NA@@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
+		"director": "Rob Reiner",
+		"stars": "Billy Crystal, Meg Ryan, Carrie Fisher",
+		"description": "Harry and Sally have known each other for years, and are very good friends, but they fear sex would ruin the friendship."
+	},{
+		"id": 5,
+		"title": "Sleepless in Seattle",
+		"year": 1993,
+		"poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTNiMWUzNGItMzYzMy00MWZmLTk3MTQtOWUxNDQ1ZDljMGE0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
+		"director": "Nora Ephron",
+		"stars": "Tom Hanks, Meg Ryan, Ross Malinger",
+		"description": "A recently widowed man's son calls a radio talk-show in an attempt to find his father a partner."
+	},{
+		"id": 6,
+		"title": "One Fine Day",
+		"year": 1996,
+		"poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDdhMjgxODQtZjNhNS00YjZiLWFmYTAtODZmM2RhM2M3YmIwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+		"director": "Michael Hoffman",
+		"stars": "Michelle Pfeiffer, George Clooney, Mae Whitman",
+		"description": "The lives of two strangers and their young children unexpectedly intersect on one hectic, stressful day in New York City."
+	}
+]

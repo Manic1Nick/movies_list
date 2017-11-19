@@ -1,0 +1,15 @@
+@import "../styles/palette.less";
+
+.FilmsList {
+    position: absolute;
+  	top: 60px;
+  	left: -300px;
+  	height: 100%;
+  	width: 300px;
+  	transition: left .5s ease-in-out;
+  	background-color: @sidebar-background-color;
+
+  	&.open {
+    	left: 0;
+	}
+}
